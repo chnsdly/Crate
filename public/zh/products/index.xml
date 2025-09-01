@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>塑料容器 on Baoheng | Crate</title>
+    <link>http://localhost:1313/zh/products/</link>
+    <description>Recent content in 塑料容器 on Baoheng | Crate</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <atom:link href="http://localhost:1313/zh/products/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HDPE 周转箱</title>
+      <link>http://localhost:1313/zh/products/hdpe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh/products/hdpe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HDPE 封闭箱</title>
+      <link>http://localhost:1313/zh/products/close/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh/products/close/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HDPE&#43;POE 周转箱</title>
+      <link>http://localhost:1313/zh/products/poe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh/products/poe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PE 多功能盆</title>
+      <link>http://localhost:1313/zh/products/pe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh/products/pe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LLDPE 周转箱</title>
+      <link>http://localhost:1313/zh/products/lldpes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh/products/lldpes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LLDPE 周转箱(圆)</title>
+      <link>http://localhost:1313/zh/products/lldper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh/products/lldper/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LLDPE 叉车桶</title>
+      <link>http://localhost:1313/zh/products/lldpef/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh/products/lldpef/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LLDPE 立式水塔</title>
+      <link>http://localhost:1313/zh/products/lldpev/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh/products/lldpev/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LLDPE 卧式水塔</title>
+      <link>http://localhost:1313/zh/products/lldpeh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh/products/lldpeh/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
