@@ -48,6 +48,14 @@ products:
       image: "images/products/stack-nest/575.jpg"
     - name: "650*420*310mm"
       image: "images/products/stack-nest/650.jpg"
+    - name: "560*388*280mm"
+      image: "images/products/stack-nest/560.jpg"
+    - name: "586*386*178mm"
+      image: "images/products/stack-nest/586.jpg"
+    - name: "660*440*350mm"
+      image: "images/products/stack-nest/660.jpg"
+    - name: "716*470*218mm"
+      image: "images/products/stack-nest/716.jpg"
 
 
 

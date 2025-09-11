@@ -47,6 +47,4 @@ products:
     - name: "31"
       image: "images/products/fold/31.jpg"
 
-
-
 ---

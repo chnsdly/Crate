@@ -40,14 +40,64 @@ showcase:
 products:
   enable: true
   items:
-    - name: "12瓶啤酒筐"
-      image: "images/products/beer/12.jpg"
-    - name: "24瓶啤酒筐"
-      image: "images/products/beer/24b.jpg"
-    - name: "24瓶饮料筐"
-      image: "images/products/beer/24s.jpg"
-    - name: "24瓶饮料筐"
-      image: "images/products/beer/24l.jpg"
+    # 12瓶啤酒箱（4个颜色）
+    - name: "12瓶啤酒箱 内格：79*79mm"
+      image: "images/products/beer/beer12r.jpg"
+    - name: "12瓶啤酒箱 内格：79*79mm"
+      image: "images/products/beer/beer12y.jpg"
+    - name: "12瓶啤酒箱 内格：79*79mm"
+      image: "images/products/beer/beer12b.jpg"
+    - name: "12瓶啤酒箱 内格：79*79mm"
+      image: "images/products/beer/beer12g.jpg"
+
+    # 24瓶啤酒箱（5个颜色：红、黄、灰、蓝、绿）
+    - name: "24瓶啤酒箱 内格：80*80mm"
+      image: "images/products/beer/beer24r.jpg"
+    - name: "24瓶啤酒箱 内格：80*80mm"
+      image: "images/products/beer/beer24y.jpg"
+    - name: "24瓶啤酒箱 内格：80*80mm"
+      image: "images/products/beer/beer24g.jpg"  # 灰（grey）
+    - name: "24瓶啤酒箱 内格：80*80mm"
+      image: "images/products/beer/beer24b.jpg"
+    - name: "24瓶啤酒箱 内格：80*80mm"
+      image: "images/products/beer/beer24dg.jpg"
+
+    # 24瓶汽水箱（小号，共6条，同图：24sb）
+    - name: "24瓶汽水箱 内格：60*60mm"
+      image: "images/products/beer/24sb.jpg"
+    - name: "24瓶汽水箱 内格：60*60mm"
+      image: "images/products/beer/24sdg.jpg"
+    - name: "24瓶汽水箱 内格：60*60mm"
+      image: "images/products/beer/24sg.jpg"
+    - name: "24瓶汽水箱 内格：60*60mm"
+      image: "images/products/beer/24sr.jpg"
+    - name: "24瓶汽水箱 内格：60*60mm"
+      image: "images/products/beer/24sw.jpg"
+    - name: "24瓶汽水箱 内格：60*60mm"
+      image: "images/products/beer/24sy.jpg"
+
+    # 24瓶汽水箱（大号，共5条，同图：24lb）
+    - name: "24瓶汽水箱 内格：65*65mm"
+      image: "images/products/beer/24lb.jpg"
+    - name: "24瓶汽水箱 内格：65*65mm"
+      image: "images/products/beer/24ldg.jpg"
+    - name: "24瓶汽水箱 内格：65*65mm"
+      image: "images/products/beer/24lg.jpg"
+    - name: "24瓶汽水箱 内格：65*65mm"
+      image: "images/products/beer/24lr.jpg"
+    - name: "24瓶汽水箱 内格：65*65mm"
+      image: "images/products/beer/24ly.jpg"
+
+    # 杯筐（2条：蓝、红）
+    - name: "杯筐 内格：75*75mm"
+      image: "images/products/beer/glassb.jpg"
+    - name: "杯筐 内格：75*75mm"
+      image: "images/products/beer/glassr.jpg"
+
+    # 可乐筐（1条）
+    - name: "可乐筐 内格：60*60mm"
+      image: "images/products/beer/cola.jpg"
+
 
 
 spec_headers:

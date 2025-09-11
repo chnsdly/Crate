@@ -1,5 +1,5 @@
 ---
-title: "单冻器/风干盘"
+title: "通风盘/干燥盘"
 description: "多规格选择，堆叠稳固，适用于食品冻干与周转"
 list_image: "images/products/dry/main.jpg"
 hero_image: "images/products/dry/hero.jpg"
@@ -37,6 +37,60 @@ showcase:
       title: "应用场景"
       content: "广泛应用于水产加工、食品冻干、冷库周转与分拣环节。"
 
+products:
+  enable: true
+  items:
+    - name: "尺寸: 368*346*54mm"
+      image: "images/products/dry/368.jpg"
+    - name: "尺寸: 540*370*100mm"
+      image: "images/products/dry/540l.jpg"
+    - name: "尺寸: 540*370*100mm"
+      image: "images/products/dry/540s.jpg"
+
+    # 580（重复 → a,b,c）
+    - name: "尺寸: 580*385*70mm"
+      image: "images/products/dry/580a.jpg"
+    - name: "尺寸: 580*385*75mm"
+      image: "images/products/dry/580b.jpg"
+
+    - name: "尺寸: 590*395*90mm"
+      image: "images/products/dry/590.jpg"
+    - name: "尺寸: 600*400*100mm"
+      image: "images/products/dry/600.jpg"
+
+    # 630（重复 → a,b,c）
+    - name: "尺寸: 630*450*55mm"
+      image: "images/products/dry/630a.jpg"
+    - name: "尺寸: 630*450*60mm"
+      image: "images/products/dry/630b.jpg"
+    - name: "尺寸: 630*454*60mm"
+      image: "images/products/dry/630c.jpg"
+
+    - name: "尺寸: 720*420*70mm"
+      image: "images/products/dry/720.jpg"
+    - name: "尺寸: 730*435*70mm"
+      image: "images/products/dry/730.jpg"
+    - name: "尺寸: 740*440*100mm"
+      image: "images/products/dry/740.jpg"
+    - name: "尺寸: 745*505*80mm"
+      image: "images/products/dry/745s.jpg"
+    - name: "尺寸: 745*505*80mm"
+      image: "images/products/dry/745l.jpg"
+
+    # 810（重复 → a,b）
+    - name: "尺寸: 810*590*70mm"
+      image: "images/products/dry/810l.jpg"
+    - name: "尺寸: 810*590*70mm"
+      image: "images/products/dry/810s.jpg"
+    - name: "尺寸: 810*600*100mm"
+      image: "images/products/dry/810b.jpg"
+
+    - name: "尺寸: 880*480*70mm"
+      image: "images/products/dry/880s.jpg"
+    - name: "尺寸: 880*480*70mm"
+      image: "images/products/dry/880l.jpg"
+    - name: "尺寸: 900*600*90mm"
+      image: "images/products/dry/900.jpg"
 
 
 
