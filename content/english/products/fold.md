@@ -36,6 +36,14 @@ showcase:
     - image: "images/products/fold/4.jpg"
       title: "结实承重"
       content: "两人同时站立演示，箱体不变形，坚固耐用，长期周转可靠。"
+    
+    - image: "images/products/fold/11.png"
+      title: "折叠演示"
+      content: ""
+
+    - image: "images/products/fold/22.png"
+      title: "内外尺寸及堆叠展示"
+      content: ""
 
 
 
