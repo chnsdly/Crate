@@ -1,6 +1,6 @@
 ---
-title: "直角周转筐"
-description: "长方体直角设计，多规格可选；空箱可小筐嵌套大筐，提升仓储与运输效率。"
+title: "直壁型周转筐"
+description: "长方体直角设计，多规格可选"
 list_image: "images/products/square/main.jpg"
 hero_image: "images/products/square/hero.jpg"
 weight: 10          # Hugo 排序用
@@ -15,7 +15,7 @@ features:
     text: "箱体直角设计，底部与侧壁均带加强筋，提升承重与抗冲击性能。"
 
   - title: "支持定制"
-    text: "多色可选，支持 Logo 印刷，量产交付稳定。"
+    text: "多色可选，支持 Logo 定制，量产交付稳定。"
 
 showcase:
   enable: true

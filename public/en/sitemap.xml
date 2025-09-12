@@ -117,128 +117,28 @@
   </url><url>
     <loc>http://localhost:1313/blog/</loc>
     <lastmod>2023-09-08T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/blog/"
-                />
   </url><url>
     <loc>http://localhost:1313/categories/%E5%AE%A2%E6%88%B7%E6%A1%88%E4%BE%8B/</loc>
     <lastmod>2023-09-08T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh/categories/%E5%AE%A2%E6%88%B7%E6%A1%88%E4%BE%8B/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/categories/%E5%AE%A2%E6%88%B7%E6%A1%88%E4%BE%8B/"
-                />
   </url><url>
     <loc>http://localhost:1313/blog/blog-post-1/</loc>
     <lastmod>2023-09-08T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh/blog/blog-post-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/blog/blog-post-1/"
-                />
   </url><url>
     <loc>http://localhost:1313/tags/%E7%94%9F%E9%B2%9C/</loc>
     <lastmod>2023-09-08T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh/tags/%E7%94%9F%E9%B2%9C/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tags/%E7%94%9F%E9%B2%9C/"
-                />
   </url><url>
     <loc>http://localhost:1313/faq/</loc>
     <lastmod>2021-04-01T00:00:00-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh/faq/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/faq/"
-                />
   </url><url>
     <loc>http://localhost:1313/message_sent/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh/message_sent/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/message_sent/"
-                />
   </url><url>
     <loc>http://localhost:1313/author/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh/author/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/author/"
-                />
   </url><url>
     <loc>http://localhost:1313/author/john-doe/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh/author/john-doe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/author/john-doe/"
-                />
   </url><url>
     <loc>http://localhost:1313/author/mark-dinn/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh/author/mark-dinn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/author/mark-dinn/"
-                />
   </url><url>
     <loc>http://localhost:1313/pricing/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh/pricing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/pricing/"
-                />
   </url><url>
     <loc>http://localhost:1313/product_categories/</loc>
     <xhtml:link
@@ -305,51 +205,11 @@
                 />
   </url><url>
     <loc>http://localhost:1313/service/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh/service/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/service/"
-                />
   </url><url>
     <loc>http://localhost:1313/products/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh/products/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/products/"
-                />
   </url><url>
     <loc>http://localhost:1313/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/about/"
-                />
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/contact/"
-                />
   </url>
 </urlset>

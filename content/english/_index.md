@@ -123,7 +123,7 @@ funfacts:
       
     - icon: "fas fa-users"
       name: "服务国际客户（个）"
-      count: "300"
+      count: "1800"
       suffix: "+企业"
 
 

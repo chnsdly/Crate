@@ -1,21 +1,22 @@
 ---
-title: "多功能周转筐"
-description: "方形带盖，闭合码放更稳"
+title: "可嵌套周转筐"
+description: "可嵌套收纳，省仓储省运输"
 list_image: "images/products/rounded/main.jpg"
 hero_image: "images/products/rounded/hero.jpg"
-weight: 20          # Hugo 排序用
-type:   "products" # 可按你现有 taxonomies 调整
+weight: 20          # Hugo 排序用，可根据实际调整
+type:   "products"  # 可按你现有 taxonomies 调整
 specs_heading: "规格总表"
 
 features:
   - title: "HDPE 材质"
-    text: "高韧耐冲击，内壁光滑不易挂污，长期使用不易老化。"
+    text: "采用高强度 HDPE 注塑成型，耐冲击、抗低温，持久耐用。"
 
-  - title: "可嵌套省空间"
-    text: "回空可嵌套，库位与车次同步下降，装载率提升。"
+  - title: "高效节省空间"
+    text: "锥形设计使同型号空箱可深度嵌套，降低仓储与运输成本。"
 
-  - title: "支持定制"
-    text: "颜色/容量/Logo 可选；量产交付稳定。"
+  - title: "人性化设计"
+    text: "两侧设有便捷把手，搬运更轻松；多种网孔密度可选，兼顾透气与承载。"
+
 
 
 showcase:
@@ -24,7 +25,7 @@ showcase:
   items:
     - image: "images/products/rounded/1.jpg"
       title: "可翻转金属把手"
-      content: "选配金属把手，向内翻转形成可叠放的支撑底座；向外翻出时便于搬移与定位。"
+      content: "部分型号可选配金属把手，向内翻转形成可叠放的支撑底座；向外翻出时便于搬移与定位。"
 
     - image: "images/products/rounded/2.jpg"
       title: "把手位细节"
@@ -103,6 +104,8 @@ products:
 
     - name: "外尺寸：575*430*150mm"
       image: "images/products/rounded/319.jpg"
+
+
     - name: "外尺寸：555*380*275mm"
       image: "images/products/rounded/550.jpg"
 
@@ -129,12 +132,6 @@ products:
 
     - name: "外尺寸：820*590*400mm"
       image: "images/products/rounded/830_6.jpg"
-
-    - name: "外尺寸：820*590*400mm"
-      image: "images/products/rounded/830_7.jpg"
-
-    - name: "外尺寸：820*590*400mm"
-      image: "images/products/rounded/830_8.jpg"
 
     - name: "外尺寸：1025*710*530mm"
       image: "images/products/rounded/1000.jpg"

@@ -8,14 +8,14 @@
     <language>en-US</language>
     <atom:link href="http://localhost:1313/products/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>直角周转筐</title>
+      <title>直壁型周转筐</title>
       <link>http://localhost:1313/products/square/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/products/square/</guid>
       <description></description>
     </item>
     <item>
-      <title>多功能周转筐</title>
+      <title>可嵌套周转筐</title>
       <link>http://localhost:1313/products/rounded/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/products/rounded/</guid>
