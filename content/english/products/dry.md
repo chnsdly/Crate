@@ -40,57 +40,61 @@ showcase:
 products:
   enable: true
   items:
-    - name: "尺寸: 368*346*54mm"
+    - name: "BCDR368"
       image: "images/products/dry/368.jpg"
-    - name: "尺寸: 540*370*100mm"
+
+    - name: "BCDR540A"
       image: "images/products/dry/540l.jpg"
-    - name: "尺寸: 540*370*100mm"
+    - name: "BCDR540B"
       image: "images/products/dry/540s.jpg"
 
-    # 580（重复 → a,b,c）
-    - name: "尺寸: 580*385*70mm"
+    - name: "BCDR580A"
       image: "images/products/dry/580a.jpg"
-    - name: "尺寸: 580*385*75mm"
+    - name: "BCDR580B"
       image: "images/products/dry/580b.jpg"
 
-    - name: "尺寸: 590*395*90mm"
+    - name: "BCDR590"
       image: "images/products/dry/590.jpg"
-    - name: "尺寸: 600*400*100mm"
+
+    - name: "BCDR600"
       image: "images/products/dry/600.jpg"
 
-    # 630（重复 → a,b,c）
-    - name: "尺寸: 630*450*55mm"
+    - name: "BCDR630A"
       image: "images/products/dry/630a.jpg"
-    - name: "尺寸: 630*450*60mm"
+    - name: "BCDR630B"
       image: "images/products/dry/630b.jpg"
-    - name: "尺寸: 630*454*60mm"
+    - name: "BCDR630C"
       image: "images/products/dry/630c.jpg"
 
-    - name: "尺寸: 720*420*70mm"
+    - name: "BCDR720"
       image: "images/products/dry/720.jpg"
-    - name: "尺寸: 730*435*70mm"
+
+    - name: "BCDR730"
       image: "images/products/dry/730.jpg"
-    - name: "尺寸: 740*440*100mm"
+
+    - name: "BCDR740"
       image: "images/products/dry/740.jpg"
-    - name: "尺寸: 745*505*80mm"
+
+    - name: "BCDR745A"
       image: "images/products/dry/745s.jpg"
-    - name: "尺寸: 745*505*80mm"
+    - name: "BCDR745B"
       image: "images/products/dry/745l.jpg"
 
-    # 810（重复 → a,b）
-    - name: "尺寸: 810*590*70mm"
+    - name: "BCDR810A"
       image: "images/products/dry/810l.jpg"
-    - name: "尺寸: 810*590*70mm"
+    - name: "BCDR810B"
       image: "images/products/dry/810s.jpg"
-    - name: "尺寸: 810*600*100mm"
+    - name: "BCDR810C"
       image: "images/products/dry/810b.jpg"
 
-    - name: "尺寸: 880*480*70mm"
+    - name: "BCDR880A"
       image: "images/products/dry/880s.jpg"
-    - name: "尺寸: 880*480*70mm"
+    - name: "BCDR880B"
       image: "images/products/dry/880l.jpg"
-    - name: "尺寸: 900*600*90mm"
+
+    - name: "BCDR900"
       image: "images/products/dry/900.jpg"
+
 
 
 

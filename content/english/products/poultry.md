@@ -42,18 +42,19 @@ showcase:
 products:
   enable: true
   items:
-    - name: "PC26KD"
+    - name: "BCPT730"
       image: "images/products/poultry/26k.jpg"
-    - name: "PC26LS"
-      image: "images/products/poultry/26l.jpg"
-    - name: "PC27KD"
-      image: "images/products/poultry/27k.jpg"
-    - name: "PC28KD"
+    - name: "BCPT740"
       image: "images/products/poultry/28k.jpg"
-    - name: "PC26LS"
-      image: "images/products/poultry/28l.jpg"
-    - name: "PC31KD"
+    - name: "BCPT745A"
+      image: "images/products/poultry/27k.jpg"
+    - name: "BCPT745B"
       image: "images/products/poultry/31k.jpg"
+    - name: "BCPT750A"
+      image: "images/products/poultry/26l.jpg"
+    - name: "BCPT750B"
+      image: "images/products/poultry/28l.jpg"
+    
     
 
 spec_headers:

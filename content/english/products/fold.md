@@ -50,9 +50,9 @@ showcase:
 products:
   enable: true
   items:
-    - name: "28"
+    - name: "BCFL550A"
       image: "images/products/fold/28.jpg"
-    - name: "31"
+    - name: "BCFL550B"
       image: "images/products/fold/31.jpg"
 
 ---

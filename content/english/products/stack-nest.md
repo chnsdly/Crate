@@ -42,20 +42,21 @@ showcase:
 products:
   enable: true
   items:
-    - name: "500*335*245mm"
+    - name: "BCSN500"
       image: "images/products/stack-nest/500.jpg"
-    - name: "575*400*315mm"
+    - name: "BCSN575"
       image: "images/products/stack-nest/575.jpg"
-    - name: "650*420*310mm"
+    - name: "BCSN650"
       image: "images/products/stack-nest/650.jpg"
-    - name: "560*388*280mm"
+    - name: "BCSN560"
       image: "images/products/stack-nest/560.jpg"
-    - name: "586*386*178mm"
+    - name: "BCSN586"
       image: "images/products/stack-nest/586.jpg"
-    - name: "660*440*350mm"
+    - name: "BCSN660"
       image: "images/products/stack-nest/660.jpg"
-    - name: "716*470*218mm"
+    - name: "BCSN716"
       image: "images/products/stack-nest/716.jpg"
+
 
 
 

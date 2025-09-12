@@ -45,96 +45,96 @@ showcase:
 products:
   enable: true
   items:
-    - name: "外尺寸：280*200*90mm"
+    - name: "BCNT280"
       image: "images/products/rounded/006.jpg"
 
-    - name: "外尺寸：315*235*95mm"
+    - name: "BCNT315"
       image: "images/products/rounded/005.jpg"
 
-    - name: "外尺寸：310*195*100mm"
+    - name: "BCNT310"
       image: "images/products/rounded/086.jpg"
 
-    - name: "外尺寸：360*270*110mm"
+    - name: "BCNT360"
       image: "images/products/rounded/004.jpg"
 
-    - name: "外尺寸：350*230*110mm"
+    - name: "BCNT350"
       image: "images/products/rounded/085.jpg"
 
-    - name: "外尺寸：390*300*100mm"
+    - name: "BCNT390"
       image: "images/products/rounded/315.jpg"
 
-    - name: "外尺寸：400*305*118mm"
+    - name: "BCNT400"
       image: "images/products/rounded/003.jpg"
 
-    - name: "外尺寸：410*320*120mm"
+    - name: "BCNT410"
       image: "images/products/rounded/316.jpg"
 
-    - name: "外尺寸：380*285*120mm"
+    - name: "BCNT380"
       image: "images/products/rounded/094.jpg"
 
-    - name: "外尺寸：435*330*135mm"
+    - name: "BCNT435"
       image: "images/products/rounded/093.jpg"
 
-    - name: "外尺寸：430*310*155mm"
+    - name: "BCNT430"
       image: "images/products/rounded/083.jpg"
 
-    - name: "外尺寸：445*370*140mm"
+    - name: "BCNT445"
       image: "images/products/rounded/317.jpg"
 
-    - name: "外尺寸：450*350*130mm"
+    - name: "BCNT450"
       image: "images/products/rounded/002.jpg"
 
-    - name: "外尺寸：490*370*170mm"
+    - name: "BCNT490"
       image: "images/products/rounded/082.jpg"
 
-    - name: "外尺寸：495*365*150mm"
+    - name: "BCNT495"
       image: "images/products/rounded/092.jpg"
 
-    - name: "外尺寸：480*380*150mm"
+    - name: "BCNT480"
       image: "images/products/rounded/001.jpg"
 
-    - name: "外尺寸：510*370*150mm"
+    - name: "BCNT510"
       image: "images/products/rounded/318.jpg"
 
-    - name: "外尺寸：560*420*170mm"
+    - name: "BCNT560"
       image: "images/products/rounded/091.jpg"
 
-    - name: "外尺寸：550*430*190mm"
+    - name: "BCNT550A"
       image: "images/products/rounded/081.jpg"
 
-    - name: "外尺寸：575*430*150mm"
+    - name: "BCNT575"
       image: "images/products/rounded/319.jpg"
 
-
-    - name: "外尺寸：555*380*275mm"
+    - name: "BCNT555"
       image: "images/products/rounded/550.jpg"
 
-    - name: "外尺寸：600*415*300mm"
+    - name: "BCNT600"
       image: "images/products/rounded/600.jpg"
 
-    - name: "外尺寸：650*450*300mm"
+    - name: "BCNT650A"
       image: "images/products/rounded/650s.jpg"
 
-    - name: "外尺寸：650*450*300mm"
+    - name: "BCNT650B"
       image: "images/products/rounded/650d.jpg"
 
-    - name: "外尺寸：685*480*360mm"
+    - name: "BCNT685A"
       image: "images/products/rounded/690s.jpg"
 
-    - name: "外尺寸：680*480*400mm"
+    - name: "BCNT680"
       image: "images/products/rounded/690d.jpg"
 
-    - name: "外尺寸：685*480*360mm"
+    - name: "BCNT685B"
       image: "images/products/rounded/690h.jpg"
 
-    - name: "外尺寸：740*510*390mm"
+    - name: "BCNT740"
       image: "images/products/rounded/730_6.jpg"
 
-    - name: "外尺寸：820*590*400mm"
+    - name: "BCNT820"
       image: "images/products/rounded/830_6.jpg"
 
-    - name: "外尺寸：1025*710*530mm"
+    - name: "BCNT1025"
       image: "images/products/rounded/1000.jpg"
+
 
 
 spec_headers: 
