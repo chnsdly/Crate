@@ -1,42 +1,41 @@
 ---
-title: "直壁型周转筐"
-description: "长方体直角设计，多规格可选"
+title: "Straight-Wall Crates"
+description: "Rectangular right-angle design, multiple sizes available."
 list_image: "images/products/square/main.jpg"
 hero_image: "images/products/square/hero.jpg"
-weight: 10          # Hugo 排序用
-type:   "products"  # 可按你现有 taxonomies 调整
-specs_heading: "规格总表"
+weight: 10          # Hugo sorting
+type:   "products"  # Adjust according to your existing taxonomies
+specs_heading: "Specification Overview"
 
 features:
-  - title: "HDPE 材质"
-    text: "高强度 HDPE 注塑成型，耐冲击，不易开裂，长期使用更耐久。"
+  - title: "HDPE Material"
+    text: "High-strength HDPE injection molding; impact-resistant, not prone to cracking, and durable for long-term use."
 
-  - title: "结构稳固"
-    text: "箱体直角设计，底部与侧壁均带加强筋，提升承重与抗冲击性能。"
+  - title: "Robust Structure"
+    text: "Right-angle box design with ribs on the base and sidewalls to enhance load-bearing and impact resistance."
 
-  - title: "支持定制"
-    text: "多色可选，支持 Logo 定制，量产交付稳定。"
+  - title: "Customization Supported"
+    text: "Multiple colors available; logo customization supported; stable mass delivery."
 
 showcase:
   enable: true
-  gallery_heading: "产品展示"
+  gallery_heading: "Product Showcase"
   items:
     - image: "images/products/square/1.jpg"
-      title: "多规格可嵌套"
-      content: "大小箱体相互嵌套展示，回空时可有效减少体积，占用空间小。"
+      title: "Nestable in Multiple Sizes"
+      content: "Large and small boxes nest into each other, significantly reducing volume when returned empty."
 
     - image: "images/products/square/2.jpg"
-      title: "箱体与底部加强筋"
-      content: "侧壁与底部均布加强筋条，受力均匀，提升整体抗压与抗冲击能力。"
+      title: "Reinforced Box & Base Ribs"
+      content: "Uniform ribs on sidewalls and base distribute loads evenly and improve overall compression and impact resistance."
 
     - image: "images/products/square/3.jpg"
-      title: "便捷把手设计"
-      content: "把手位置合理，搬运更省力，适合高频周转与长距离转运。"
+      title: "Convenient Handle Design"
+      content: "Ergonomic handle positions reduce effort, ideal for high-frequency turnover and long-distance transfer."
 
     - image: "images/products/square/4.jpg"
-      title: "承重实拍"
-      content: "人员坐入，箱体不变形，结实耐用，长期使用更可靠。"
-
+      title: "Load-Bearing Demo"
+      content: "With a person seated inside, the box remains undeformed—sturdy, durable, and reliable for long-term use."
 
 products:
   enable: true
@@ -116,20 +115,20 @@ products:
       image: "images/products/square/1000.jpg"
 
 spec_headers: 
-  - { key: "model",         label: "型号" }
-  - { key: "outer_size_cm", label: "外尺寸 (cm)" }   
-  - { key: "weight_kg",     label: "重量 (kg)" }
-  - { key: "material",      label: "原料" }
-  - { key: "process",       label: "生产工艺" }
-  - { key: "color",         label: "颜色" }
+  - { key: "model",         label: "Model" }
+  - { key: "outer_size_cm", label: "Outer Size (cm)" }   
+  - { key: "weight_kg",     label: "Weight (kg)" }
+  - { key: "material",      label: "Material" }
+  - { key: "process",       label: "Process" }
+  - { key: "color",         label: "Color" }
 
 specs:
-  # —— 蓝色大筐系列 ——
+  # —— Blue Large-Crate Series ——
   - { model: PC1000, outer_size_cm: "100 * 72 * 56", weight_kg: null, material: HDPE, process: 注塑, color: "蓝" }  # 一米大筐，可配轮
   - { model: PC790,  outer_size_cm: "79 * 57.5 * 55", weight_kg: null, material: HDPE, process: 注塑, color: "蓝" }  # 755筐，可配轮
   - { model: PC680,  outer_size_cm: "67.5 * 47 * 41", weight_kg: null, material: HDPE, process: 注塑, color: "蓝/白" }
 
-  # —— 白色直角周转筐系列 ——
+  # —— White Right-Angle Crate Series ——
   - { model: PC635,  outer_size_cm: "63.5 * 44 * 35", weight_kg: null, material: HDPE, process: 注塑, color: "白" }
   - { model: PC615,  outer_size_cm: "61.5 * 42.5 * 32", weight_kg: null, material: HDPE, process: 注塑, color: "白" }
   - { model: PC535,  outer_size_cm: "53.5 * 36 * 32", weight_kg: null, material: HDPE, process: 注塑, color: "白" }
@@ -138,7 +137,4 @@ specs:
   - { model: PC470A, outer_size_cm: "47 * 31 * 26.5", weight_kg: null, material: HDPE, process: 注塑, color: "白" }
   - { model: PC470B, outer_size_cm: "47 * 32 * 26", weight_kg: null, material: HDPE, process: 注塑, color: "白" }
   - { model: PC430,  outer_size_cm: "43 * 29.5 * 22.5", weight_kg: null, material: HDPE, process: 注塑, color: "白" }
-
-
-
 ---

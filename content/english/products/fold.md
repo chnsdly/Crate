@@ -1,51 +1,49 @@
 ---
-title: "折叠筐"
-description: "折叠设计，堆叠稳固，回空省空间；坚固耐用，适合多场景周转"
+title: "Foldable Crates"
+description: "Foldable design, stable stacking, space-saving on empty return; robust and durable for multi-scenario turnover."
 list_image: "images/products/fold/main.jpg"
 hero_image: "images/products/fold/hero.jpg"
-weight: 40          # Hugo 排序用
-type:   "products"  # 可按你现有 taxonomies 调整
-specs_heading: "规格总表"
+weight: 40          # Hugo sorting
+type:   "products"  # Adjust according to your existing taxonomies
+specs_heading: "Specification Overview"
 
 features:
-  - title: "HDPE 材质"
-    text: "高强度 HDPE 注塑成型，耐冲击，抗低温，长期使用不易开裂。"
+  - title: "HDPE Material"
+    text: "High-strength HDPE injection molding; impact-resistant, cold-resistant, and not prone to cracking in long-term use."
 
-  - title: "折叠省空间"
-    text: "折叠后高度仅为展开时的 1/6，大幅节省仓储与运输空间。"
+  - title: "Space-Saving Folding"
+    text: "Folded height is only 1/6 of the open height, significantly saving storage and transport space."
 
-  - title: "操作便捷"
-    text: "卡扣式结构，轻松拉合即可完成折叠与展开，周转更高效。"
+  - title: "Easy Operation"
+    text: "Latch structure; quick pull-and-lock to fold and unfold, enabling more efficient turnover."
 
 showcase:
   enable: true
-  gallery_heading: "产品展示"
+  gallery_heading: "Product Showcase"
   items:
     - image: "images/products/fold/1.jpg"
-      title: "产品展示"
-      content: "整体外观简洁实用，广泛适用于物流、仓储、商超等场景。"
+      title: "Product Display"
+      content: "Clean, practical design; widely applicable to logistics, warehousing, and retail."
 
     - image: "images/products/fold/2.jpg"
-      title: "卡扣设计"
-      content: "拉扣结构，操作便捷，快速完成折叠与展开。"
+      title: "Latch Design"
+      content: "Latch mechanism for easy operation; fold and unfold quickly."
 
     - image: "images/products/fold/3.jpg"
-      title: "折叠收纳"
-      content: "折叠后仅为原高度的 1/6，显著减少体积，占用空间小。"
+      title: "Folded Storage"
+      content: "Only 1/6 of the original height when folded, markedly reducing volume and footprint."
 
     - image: "images/products/fold/4.jpg"
-      title: "结实承重"
-      content: "两人同时站立演示，箱体不变形，坚固耐用，长期周转可靠。"
+      title: "Strong Load-Bearing"
+      content: "Two-person standing demo without deformation—robust, durable, and reliable for long-term turnover."
     
     - image: "images/products/fold/11.png"
-      title: "折叠演示"
+      title: "Folding Demonstration"
       content: ""
 
     - image: "images/products/fold/22.png"
-      title: "内外尺寸及堆叠展示"
+      title: "Internal/External Dimensions and Stacking Display"
       content: ""
-
-
 
 products:
   enable: true
@@ -53,6 +51,5 @@ products:
     - name: "BCFL550A"
       image: "images/products/fold/28.jpg"
     - name: "BCFL550B"
-      image: "images/products/fold/31.jpg"
-
+      image: "images/products/fold/315.jpg"
 ---

@@ -1,67 +1,67 @@
 ---
-title: "客户案例｜华南生鲜配送中心：更换 HDPE 网孔周转筐后，拣配效率与损耗双降"
+title: "Customer Case | South China Fresh Distribution Center: After Switching to HDPE Mesh Crates, Picking Efficiency Improved and Losses Decreased"
 date: 2023-09-08T11:07:10+06:00
-author: 魏本龙
+author: "Wei Benlong"
 image : "images/blog/news1.jpg"
 bg_image: "images/feature-bg.jpg"
-categories: ["客户案例"]
-tags: ["生鲜"]
+categories: ["Customer Cases"]
+tags: ["Fresh Produce"]
 description: ""
 draft: false
 type: "post"
 ---
 
-**场景概述**  
-- 行业：生鲜冷链 / 城配  
-- 区域：中国·华南  
-- 门店：96 家  
+**Scenario Overview**  
+- Industry: Fresh cold chain / city distribution  
+- Region: South China, China  
+- Stores: 96  
 <!--more-->
-- 日均周转量：约 18,000 次/天  
-- 使用产品：HDPE 注塑 **网孔塑料周转筐**360/390/420 mm 三种高度）
+- Average daily turnover: approx. 18,000 cycles/day  
+- Products used: HDPE injection-molded **mesh plastic crates** (three heights: 360/390/420 mm)
 
 ---
 
-## 客户痛点（改造前）
-- 旧 PP 筐角位易崩裂，**堆高滑移**导致夜班返工多。  
-- 尺寸不统一，**滚筒线/转弯段**偶发卡滞。  
-- **清洗慢、挂水重**，库内异味管理压力大。  
-- 回空占车位，**回程装载率低**、成本高。
+## Customer Pain Points (Before Retrofit)
+- Old PP crates easily cracked at corners; **stacking slippage** caused frequent night-shift rework.  
+- Non-standard dimensions led to occasional jams on **roller conveyors/turning sections**.  
+- **Slow washing and heavy water retention**, creating pressure on odor control in storage.  
+- Empty crates occupied vehicle space, with **low backhaul loading rate** and high cost.  
 
-## 解决方案
-- **统一筐型**：三种高度覆盖不同拣配批量。  
-- **结构加强**：HDPE 注塑；边框/角位加固，底部加强筋，手柄倒角防割手。  
-- **堆叠/嵌套**：满载堆叠稳固，**空筐可嵌套回空（体积缩减约 60%）**。  
-- **分区管理**：按工区分色（分拣/后场/退货），批次标识便于抽检与追溯。  
-- **清洗线验证**：50–55℃热水 + 碱洗，风干段通过性测试，确保**快洗快干**。
+## Solution
+- **Standardized crate types**: three heights to cover different picking volumes.  
+- **Structural reinforcement**: HDPE injection molding; reinforced frame/corners, bottom ribs, chamfered handles to prevent hand injuries.  
+- **Stacking/nesting**: stable stacking when loaded; **nestable empty crates (volume reduced by ~60%)**.  
+- **Zonal management**: color-coded by area (sorting/backstage/returns), batch labeling for inspection and traceability.  
+- **Washing line validation**: 50–55°C hot water + alkaline wash; passed drying test, ensuring **fast wash & quick dry**.  
 
-## 实施过程
-1. **第 1–2 周**：两条作业线小范围 A/B 测试（含 3 个门店群）。  
-2. **第 3 周**：批量到仓与班组培训，优先替换**破损率 >20%** 的旧筐。  
-3. **第 4 周**：全仓切换，复核堆叠高度与车辆装载方案，固化 SOP。
+## Implementation Process
+1. **Weeks 1–2**: small-scale A/B testing on two lines (covering 3 store clusters).  
+2. **Week 3**: bulk delivery and team training, prioritizing replacement of old crates with **>20% damage rate**.  
+3. **Week 4**: full warehouse switch, re-checked stacking height and vehicle loading plan, SOP finalized.  
 
-## 8 周对比结果（改造后 vs. 前期基线）
-| 指标                     | 改造前        | 改造后        | 变化/说明                 |
-|--------------------------|---------------|---------------|---------------------------|
-| **筐体破损率**           | 2.6% / 周     | 0.8% / 周     | **-69%**                  |
-| **夜班返工单**           | 基线          | -38%          | 复盘重拣明显减少          |
-| **单托堆高**             | 5 层          | 6 层          | **+20% 码高**             |
-| **车辆装载率**           | 基线          | +12%          | 回程带货能力提升          |
-| **回空体积**             | 100%          | 38%           | **-62%**（嵌套回空）      |
-| **清洗线周期**           | 基线          | -28%          | 周末高峰节拍更稳          |
-| **清洗用水**             | 基线          | -22%          | 网孔通风、挂水更少        |
-| **人工工时（拣选+洗筐）**| 基线          | -1.5 人/班    | 约 **-320 工时/月**       |
+## 8-Week Comparison (After vs. Baseline)
+| Metric                   | Before         | After          | Change/Notes               |
+|---------------------------|----------------|----------------|----------------------------|
+| **Crate damage rate**     | 2.6% / week    | 0.8% / week    | **-69%**                   |
+| **Night-shift rework**    | Baseline       | -38%           | Significant reduction      |
+| **Stacking per pallet**   | 5 layers       | 6 layers       | **+20% stacking height**   |
+| **Vehicle loading rate**  | Baseline       | +12%           | Improved backhaul capacity |
+| **Empty crate volume**    | 100%           | 38%            | **-62%** (nested return)   |
+| **Washing cycle**         | Baseline       | -28%           | More stable at peak hours  |
+| **Water consumption**     | Baseline       | -22%           | Less water retention       |
+| **Labor hours**           | Baseline       | -1.5 workers/shift | ~**-320 hrs/month**   |
 
-> **作业经理（匿名）**：  
-> “统一筐型后，夜班返工肉眼可见地少。堆叠更稳，车上拉带也不用绑那么多。清洗线节拍赶得上周末高峰，回空嵌套让我们少跑一趟车。”
+> **Operations Manager (anonymous):**  
+> "With standardized crates, night rework visibly decreased. Stacks are more stable, and we don’t need as many straps on trucks. Washing line keeps pace with weekend peaks, and nested empties save us an extra trip."  
 
-## 投资回收期（示例）
-- **回收期≈ 5–7 个月**（以“筐体投入成本”对比“破损补料 + 返工人工 + 运费与水电”的月度净节省测算）。  
-- 公式：**回收期（月）= 一次性投入 ÷ 月度净节省**。
-
+## Payback Period (Example)
+- **≈ 5–7 months** (comparing “crate investment cost” against monthly savings in breakage, rework, transport, and utilities).  
+- Formula: **Payback (months) = One-time investment ÷ Monthly net savings**.  
 
 ---
 
-### 可复用要点（给其他仓配场景）
-- 先做 **2–3 周 A/B 测试**，用“破损率 / 返工单 / 清洗周期 / 回空体积”四个指标决策。  
-- 分高度策略，减少混筐与卡滞。  
-- SOP 固化：**堆叠高度、回空嵌套、清洗温度与碱洗比例**三项先固化再扩仓。
+### Reusable Insights (For Other Warehousing/Distribution Scenarios)
+- Start with **2–3 weeks of A/B testing**, using four KPIs: breakage rate / rework orders / washing cycle / empty return volume.  
+- Multi-height strategy to reduce mixed-crate issues and jams.  
+- SOP standardization: **stacking height, nesting method, washing temperature and alkaline ratio** must be fixed before scaling.  
+---

@@ -1,142 +1,46 @@
 ---
-title: "通风盘/干燥盘"
-description: "多规格选择，堆叠稳固，适用于食品冻干与周转"
+title: "Ventilated / Drying Trays"
+description: "Multiple size options, stable stacking, suitable for drying, food freeze-drying and turnover."
 list_image: "images/products/dry/main.jpg"
 hero_image: "images/products/dry/hero.jpg"
-weight: 30          # Hugo 排序用
-type:   "products"  # 可按你现有 taxonomies 调整
-specs_heading: "规格总表"
+weight: 30          # Hugo sorting
+type:   "products"  # Adjust according to your existing taxonomies
+specs_heading: "Specification Overview"
 
 features:
-  - title: "HDPE 材质"
-    text: "高强度 HDPE 注塑成型，耐低温，抗冲击，不易开裂。"
+  - title: "HDPE Material"
+    text: "High-strength HDPE injection molding, cold-resistant, impact-resistant, not prone to cracking."
 
-  - title: "食品级设计"
-    text: "内壁光滑不易挂污，易清洗，符合食品冻干及水产加工使用需求。"
+  - title: "Food Safety"
+    text: "Meets requirements for drying, food freezing and seafood applications."
 
-  - title: "支持定制"
-    text: "可选大眼/小眼、不同规格及颜色；支持印刷 Logo，量产交付稳定。"
+  - title: "Customization Supported"
+    text: "Available in large/small mesh, different sizes and colors; supports logo printing, stable mass delivery."
 
 showcase:
   enable: true
-  gallery_heading: "产品展示"
+  gallery_heading: "Product Showcase"
   items:
     - image: "images/products/dry/1.jpg"
-      title: "标准展示"
-      content: "外观简洁实用，多种型号可选，适合水产、食品加工环节使用。"
+      title: "Standard Display"
+      content: "Simple and practical design, multiple models available, suitable for seafood and food processing."
 
     - image: "images/products/dry/2.jpg"
-      title: "圆润边角"
-      content: "边角圆滑无毛刺，减少操作损伤，提升安全性与使用舒适度。"
+      title: "Rounded Corners"
+      content: "Smooth corners without burrs, reducing operational injuries and improving safety and comfort."
 
     - image: "images/products/dry/3.jpg"
-      title: "边缘加强筋"
-      content: "结构加固，承重更稳，堆码不易变形，长期使用更耐久。"
+      title: "Edge Reinforcement Ribs"
+      content: "Reinforced structure, more stable load-bearing, resistant to deformation, more durable in long-term use."
 
     - image: "images/products/dry/4.jpg"
-      title: "应用场景"
-      content: "广泛应用于水产加工、食品冻干、冷库周转与分拣环节。"
-
-products:
-  enable: true
-  items:
-    - name: "BCDR368"
-      image: "images/products/dry/368.jpg"
-
-    - name: "BCDR540A"
-      image: "images/products/dry/540l.jpg"
-    - name: "BCDR540B"
-      image: "images/products/dry/540s.jpg"
-
-    - name: "BCDR580A"
-      image: "images/products/dry/580a.jpg"
-    - name: "BCDR580B"
-      image: "images/products/dry/580b.jpg"
-
-    - name: "BCDR590"
-      image: "images/products/dry/590.jpg"
-
-    - name: "BCDR600"
-      image: "images/products/dry/600.jpg"
-
-    - name: "BCDR630A"
-      image: "images/products/dry/630a.jpg"
-    - name: "BCDR630B"
-      image: "images/products/dry/630b.jpg"
-    - name: "BCDR630C"
-      image: "images/products/dry/630c.jpg"
-
-    - name: "BCDR720"
-      image: "images/products/dry/720.jpg"
-
-    - name: "BCDR730"
-      image: "images/products/dry/730.jpg"
-
-    - name: "BCDR740"
-      image: "images/products/dry/740.jpg"
-
-    - name: "BCDR745A"
-      image: "images/products/dry/745s.jpg"
-    - name: "BCDR745B"
-      image: "images/products/dry/745l.jpg"
-
-    - name: "BCDR810A"
-      image: "images/products/dry/810l.jpg"
-    - name: "BCDR810B"
-      image: "images/products/dry/810s.jpg"
-    - name: "BCDR810C"
-      image: "images/products/dry/810b.jpg"
-
-    - name: "BCDR880A"
-      image: "images/products/dry/880s.jpg"
-    - name: "BCDR880B"
-      image: "images/products/dry/880l.jpg"
-
-    - name: "BCDR900"
-      image: "images/products/dry/900.jpg"
-
-
-
-
+      title: "Application Scenarios"
+      content: "Widely used in seafood processing, food freeze-drying, cold storage turnover and sorting."
+      
 spec_headers:
-  - { key: "model",     label: "型号" }
-  - { key: "size",      label: "尺寸 (cm)" }
-  - { key: "material",  label: "原料" }
-  - { key: "process",   label: "生产工艺" }
-  - { key: "color",     label: "颜色" }
-
-specs:
-  # 高脚盘
-  - { model: PC600HJ,   size: 60 * 40 * 10,    material: HDPE, process: 注塑, color: 白 }
-  - { model: PC744HJ,   size: 74 * 44 * 10,    material: HDPE, process: 注塑, color: 白 }
-  - { model: PC806HJ,   size: 81 * 60 * 10,    material: HDPE, process: 注塑, color: 白 }
-  - { model: PC906HJ,   size: 90 * 60 * 9,     material: HDPE, process: 注塑, color: 白 }
-
-  # 单冻盘
-  - { model: PC3DF-S,   size: 58 * 38.5 * 7.5, material: HDPE, process: 注塑, color: 白 }
-  - { model: PC4DF,     size: 36.8 * 34.6 * 5.4, material: HDPE, process: 注塑, color: 白 }
-  - { model: PC3DF-L,   size: 58 * 38.5 * 7,   material: HDPE, process: 注塑, color: 白 }
-  - { model: PC2DF-L,   size: 73 * 43.5 * 7,   material: HDPE, process: 注塑, color: 白 }
-  - { model: PC1DF-L,   size: 81 * 59 * 7,     material: HDPE, process: 注塑, color: 白 }
-  - { model: PC3DF-SM,  size: 58 * 38.6 * 7,   material: HDPE, process: 注塑, color: 白 }
-  - { model: PC2DF-SM,  size: 73 * 43.5 * 7,   material: HDPE, process: 注塑, color: 白 }
-  - { model: PC1DF-SM,  size: 81 * 59 * 7,     material: HDPE, process: 注塑, color: 白 }
-
-  # 烘盘
-  - { model: PC540HPL,  size: 54 * 37 * 10,    material: HDPE, process: 注塑, color: 白 }
-  - { model: PC540HPH,  size: 54 * 37 * 10,    material: HDPE, process: 注塑, color: 白 }
-  - { model: PC590HP,   size: 59 * 39.5 * 9,   material: HDPE, process: 注塑, color: 白 }
-  - { model: PC640HP,   size: 63 * 45 * 6,     material: HDPE, process: 注塑, color: 白 }
-  - { model: PC720HP,   size: 72 * 42 * 7,     material: HDPE, process: 注塑, color: 白 }
-
-  # 其他规格
-  - { model: PC630SM,   size: 63 * 45 * 5.5,   material: HDPE, process: 注塑, color: 白 }
-  - { model: PC630LM,   size: 63 * 45.4 * 6,   material: HDPE, process: 注塑, color: 白 }
-  - { model: PC745SM,   size: 74.5 * 50.5 * 8, material: HDPE, process: 注塑, color: 白 }
-  - { model: PC745LM,   size: 74.5 * 50.5 * 8, material: HDPE, process: 注塑, color: 白 }
-  - { model: PC8848SM,  size: 88 * 48 * 7,     material: HDPE, process: 注塑, color: 白 }
-  - { model: PC8848LM,  size: 88 * 48 * 7,     material: HDPE, process: 注塑, color: 白 }
-
-
-
+  - { key: "model",     label: "Model" }
+  - { key: "size",      label: "Size (cm)" }
+  - { key: "material",  label: "Material" }
+  - { key: "process",   label: "Process" }
+  - { key: "color",     label: "Color" }
 ---

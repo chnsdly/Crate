@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kunststoff-Transportkisten on Baoheng | Crate</title>
+    <link>http://localhost:1313/de/products/</link>
+    <description>Recent content in Kunststoff-Transportkisten on Baoheng | Crate</description>
+    <generator>Hugo</generator>
+    <language>de-at</language>
+    <atom:link href="http://localhost:1313/de/products/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geradwandige Transportkisten</title>
+      <link>http://localhost:1313/de/products/square/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/products/square/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stapelnestbare Kisten</title>
+      <link>http://localhost:1313/de/products/nestable/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/products/nestable/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Belüftungs- / Trocknungstabletts</title>
+      <link>http://localhost:1313/de/products/dry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/products/dry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Faltkisten</title>
+      <link>http://localhost:1313/de/products/fold/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/products/fold/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stapel- und Nestkisten</title>
+      <link>http://localhost:1313/de/products/stack-nest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/products/stack-nest/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bierkästen</title>
+      <link>http://localhost:1313/de/products/beer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/products/beer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Geflügel-Transportkisten</title>
+      <link>http://localhost:1313/de/products/poultry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/products/poultry/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

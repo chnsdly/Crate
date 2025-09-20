@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cajas de plástico on Baoheng | Crate</title>
+    <link>http://localhost:1313/es/products/</link>
+    <description>Recent content in Cajas de plástico on Baoheng | Crate</description>
+    <generator>Hugo</generator>
+    <language>es-ES</language>
+    <atom:link href="http://localhost:1313/es/products/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cajas de pared recta</title>
+      <link>http://localhost:1313/es/products/square/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/products/square/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cajas apilables encajables</title>
+      <link>http://localhost:1313/es/products/nestable/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/products/nestable/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bandejas ventiladas / de secado</title>
+      <link>http://localhost:1313/es/products/dry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/products/dry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cajas plegables</title>
+      <link>http://localhost:1313/es/products/fold/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/products/fold/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cajas stack-nest</title>
+      <link>http://localhost:1313/es/products/stack-nest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/products/stack-nest/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cajas para cerveza</title>
+      <link>http://localhost:1313/es/products/beer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/products/beer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jaulas para transporte de aves</title>
+      <link>http://localhost:1313/es/products/poultry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/products/poultry/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

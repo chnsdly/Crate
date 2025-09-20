@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>塑料周转筐 on Baoheng | Crate</title>
+    <title>Plastic Crates on Baoheng | Crate</title>
     <link>http://localhost:1313/products/</link>
-    <description>Recent content in 塑料周转筐 on Baoheng | Crate</description>
+    <description>Recent content in Plastic Crates on Baoheng | Crate</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <atom:link href="http://localhost:1313/products/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>直壁型周转筐</title>
+      <title>Straight-Wall Crates</title>
       <link>http://localhost:1313/products/square/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/products/square/</guid>
       <description></description>
     </item>
     <item>
-      <title>可嵌套周转筐</title>
+      <title>Nestable Crates</title>
       <link>http://localhost:1313/products/nestable/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/products/nestable/</guid>
       <description></description>
     </item>
     <item>
-      <title>通风盘/干燥盘</title>
+      <title>Ventilated / Drying Trays</title>
       <link>http://localhost:1313/products/dry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/products/dry/</guid>
       <description></description>
     </item>
     <item>
-      <title>倒置周转筐</title>
-      <link>http://localhost:1313/products/stack-nest/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/stack-nest/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>折叠筐</title>
+      <title>Foldable Crates</title>
       <link>http://localhost:1313/products/fold/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/products/fold/</guid>
       <description></description>
     </item>
     <item>
-      <title>啤酒筐</title>
+      <title>Stack-Nest Crates</title>
+      <link>http://localhost:1313/products/stack-nest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/products/stack-nest/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Beer Crates</title>
       <link>http://localhost:1313/products/beer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/products/beer/</guid>
       <description></description>
     </item>
     <item>
-      <title>家禽运输笼</title>
+      <title>Poultry Transport Crates</title>
       <link>http://localhost:1313/products/poultry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/products/poultry/</guid>

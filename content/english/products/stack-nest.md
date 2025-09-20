@@ -1,43 +1,41 @@
 ---
-title: "倒置周转筐"
-description: "可堆可套周转筐"
+title: "Stack-Nest Crates"
+description: "Stackable and nestable turnover crates."
 list_image: "images/products/stack-nest/main.jpg"
 hero_image: "images/products/stack-nest/hero.jpg"
-weight: 40          # Hugo 排序用
-type:   "products" # 可按你现有 taxonomies 调整
-specs_heading: "规格总表"
+weight: 40          # Hugo sorting
+type:   "products"  # Adjust according to your existing taxonomies
+specs_heading: "Specification Overview"
 
 features:
-  - title: "LLDPE 材质"
-    text: "高韧耐冲击，内壁光滑不易挂污，长期使用不易老化。"
+  - title: "HDPE Material"
+    text: "High-strength HDPE injection molding; cold-resistant, impact-resistant, and not prone to cracking."
 
-  - title: "可嵌套省空间"
-    text: "回空可嵌套，库位与车次同步下降，装载率提升。"
+  - title: "Nestable & Stackable"
+    text: "Nestable; rotate 180° to stack."
 
-  - title: "支持定制"
-    text: "颜色/容量/Logo 可选；量产交付稳定。"
+  - title: "Customization Supported"
+    text: "Color/capacity/logo options; stable mass production and delivery."
 
 showcase:
   enable: true
-  gallery_heading: "倒置周转筐｜产品展示"
+  gallery_heading: "Stack-Nest Crates｜Product Showcase"
   items:
     - image: "images/products/stack-nest/1.jpg"
-      title: "正常嵌套｜回空更省空间"
-      content: "同型号可直接嵌套，显著减少仓储与回空体积；适合分拣后回程装载与库内暂存。HDPE 注塑，耐冲击、易清洁。"
+      title: "Standard Nesting｜Space-Saving on Return"
+      content: "Same-model crates nest directly, greatly reducing storage and return volume; ideal for return loads after sorting and temporary in-warehouse storage. HDPE injection molded, impact-resistant and easy to clean."
 
     - image: "images/products/stack-nest/2.jpg"
-      title: "180°倒置后堆叠｜稳固不滑移"
-      content: "将上层筐翻转 180° 后放置于下层口沿定位点，实现“倒置堆叠”，上层不压入下层箱内，适合分拣台/产线暂存。"
+      title: "180° Inversion for Stacking｜Stable, No Slippage"
+      content: "Flip the upper crate 180° and place it on the rim locators of the lower crate to achieve “inverted stacking,” preventing the upper crate from pressing into the lower—suited for staging at sorting tables/production lines."
 
     - image: "images/products/stack-nest/3.jpg"
-      title: "开孔把手细节｜抓取舒适省力"
-      content: "圆角开孔贴合手指，周边加强筋分散受力；湿手也有足够摩擦，人工搬运与机械抓取更稳。"
+      title: "Hand-Hole Detail｜Comfortable, Low-Effort Grip"
+      content: "Rounded openings fit the fingers; surrounding ribs diffuse force. Adequate friction even with wet hands for steadier manual handling and mechanical gripping."
 
     - image: "images/products/stack-nest/4.jpg"
-      title: "底部加强筋结构｜承载与抗冲击双提升"
-      content: "交错筋路使受力更均匀，满载不拱底；底纹增强摩擦，在湿滑地面更稳。适配仓配、加工与清洗风干等多场景。"
-
-
+      title: "Bottom Reinforcement｜Higher Load & Impact Resistance"
+      content: "Staggered rib layout evens out stress to prevent bottom bulging under load; tread texture improves grip on wet floors. Suitable for warehousing, processing, washing and air-drying, and more."
 
 products:
   enable: true
@@ -48,6 +46,8 @@ products:
       image: "images/products/stack-nest/575.jpg"
     - name: "BCSN650"
       image: "images/products/stack-nest/650.jpg"
+    - name: "BCSN595"
+      image: "images/products/stack-nest/595.jpg"
     - name: "BCSN560"
       image: "images/products/stack-nest/560.jpg"
     - name: "BCSN586"
@@ -57,22 +57,15 @@ products:
     - name: "BCSN716"
       image: "images/products/stack-nest/716.jpg"
 
-
-
-
 spec_headers:
-  - { key: "model",    label: "型号" }
-  - { key: "size_mm",  label: "规格 (mm)" }
-  - { key: "material", label: "原料" }
-  - { key: "process",  label: "生产工艺" }
-  - { key: "color",    label: "颜色" }
+  - { key: "model",    label: "Model" }
+  - { key: "size_mm",  label: "Size (mm)" }
+  - { key: "material", label: "Material" }
+  - { key: "process",  label: "Process" }
+  - { key: "color",    label: "Color" }
 
 specs:
   - { model: PCHDPE500, size_mm: "500*335*245", material: HDPE, process: 注塑, color: 白 / 绿 }
   - { model: PCHDPE575, size_mm: "575*400*315", material: HDPE, process: 注塑, color: 白 / 绿 }
   - { model: PCHDPE650, size_mm: "650*420*310", material: HDPE, process: 注塑, color: 白 / 绿 }
-
-
-
-
 ---
