@@ -36,6 +36,66 @@ showcase:
     - image: "images/products/beer/4.jpg"
       title: "Usine et stock"
       content: "Capacité de production à grande échelle, stock suffisant, livraisons fiables."
+products:
+  enable: true
+  items:
+    # Caisse à bière 12 bouteilles (4 couleurs)
+    - name: "Caisse à bière 12 bouteilles, compartiment : 79*79mm"
+      image: "images/products/beer/beer12r.jpg"
+    - name: "Caisse à bière 12 bouteilles, compartiment : 79*79mm"
+      image: "images/products/beer/beer12y.jpg"
+    - name: "Caisse à bière 12 bouteilles, compartiment : 79*79mm"
+      image: "images/products/beer/beer12b.jpg"
+    - name: "Caisse à bière 12 bouteilles, compartiment : 79*79mm"
+      image: "images/products/beer/beer12g.jpg"
+
+    # Caisse à bière 24 bouteilles (5 couleurs : rouge, jaune, gris, bleu, vert)
+    - name: "Caisse à bière 24 bouteilles, compartiment : 80*80mm"
+      image: "images/products/beer/beer24r.jpg"
+    - name: "Caisse à bière 24 bouteilles, compartiment : 80*80mm"
+      image: "images/products/beer/beer24y.jpg"
+    - name: "Caisse à bière 24 bouteilles, compartiment : 80*80mm"
+      image: "images/products/beer/beer24g.jpg"  # gris
+    - name: "Caisse à bière 24 bouteilles, compartiment : 80*80mm"
+      image: "images/products/beer/beer24b.jpg"
+    - name: "Caisse à bière 24 bouteilles, compartiment : 80*80mm"
+      image: "images/products/beer/beer24dg.jpg"
+
+    # Caisse à soda 24 bouteilles (petit modèle, 6 rangées, même image : 24sb)
+    - name: "Caisse à soda 24 bouteilles, compartiment : 60*60mm"
+      image: "images/products/beer/24sb.jpg"
+    - name: "Caisse à soda 24 bouteilles, compartiment : 60*60mm"
+      image: "images/products/beer/24sdg.jpg"
+    - name: "Caisse à soda 24 bouteilles, compartiment : 60*60mm"
+      image: "images/products/beer/24sg.jpg"
+    - name: "Caisse à soda 24 bouteilles, compartiment : 60*60mm"
+      image: "images/products/beer/24sr.jpg"
+    - name: "Caisse à soda 24 bouteilles, compartiment : 60*60mm"
+      image: "images/products/beer/24sw.jpg"
+    - name: "Caisse à soda 24 bouteilles, compartiment : 60*60mm"
+      image: "images/products/beer/24sy.jpg"
+
+    # Caisse à soda 24 bouteilles (grand modèle, 5 rangées, même image : 24lb)
+    - name: "Caisse à soda 24 bouteilles, compartiment : 65*65mm"
+      image: "images/products/beer/24lb.jpg"
+    - name: "Caisse à soda 24 bouteilles, compartiment : 65*65mm"
+      image: "images/products/beer/24ldg.jpg"
+    - name: "Caisse à soda 24 bouteilles, compartiment : 65*65mm"
+      image: "images/products/beer/24lg.jpg"
+    - name: "Caisse à soda 24 bouteilles, compartiment : 65*65mm"
+      image: "images/products/beer/24lr.jpg"
+    - name: "Caisse à soda 24 bouteilles, compartiment : 65*65mm"
+      image: "images/products/beer/24ly.jpg"
+
+    # Casier à verres (2 rangées : bleu, rouge)
+    - name: "Casier à verres, compartiment : 75*75mm"
+      image: "images/products/beer/glassb.jpg"
+    - name: "Casier à verres, compartiment : 75*75mm"
+      image: "images/products/beer/glassr.jpg"
+
+    # Casier à cola (1 rangée)
+    - name: "Casier à cola, compartiment : 60*60mm"
+      image: "images/products/beer/cola.jpg"
 
 spec_headers:
   - { key: "model",     label: "Modèle" }

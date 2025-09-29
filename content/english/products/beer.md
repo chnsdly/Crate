@@ -36,6 +36,66 @@ showcase:
     - image: "images/products/beer/4.jpg"
       title: "Factory and Inventory"
       content: "Large-scale production capacity, sufficient stock, ensuring stable delivery."
+products:
+  enable: true
+  items:
+    # 12-bottle beer crate (4 colors)
+    - name: "12-bottle beer crate, cell: 79*79mm"
+      image: "images/products/beer/beer12r.jpg"
+    - name: "12-bottle beer crate, cell: 79*79mm"
+      image: "images/products/beer/beer12y.jpg"
+    - name: "12-bottle beer crate, cell: 79*79mm"
+      image: "images/products/beer/beer12b.jpg"
+    - name: "12-bottle beer crate, cell: 79*79mm"
+      image: "images/products/beer/beer12g.jpg"
+
+    # 24-bottle beer crate (5 colors: red, yellow, grey, blue, green)
+    - name: "24-bottle beer crate, cell: 80*80mm"
+      image: "images/products/beer/beer24r.jpg"
+    - name: "24-bottle beer crate, cell: 80*80mm"
+      image: "images/products/beer/beer24y.jpg"
+    - name: "24-bottle beer crate, cell: 80*80mm"
+      image: "images/products/beer/beer24g.jpg"  # grey
+    - name: "24-bottle beer crate, cell: 80*80mm"
+      image: "images/products/beer/beer24b.jpg"
+    - name: "24-bottle beer crate, cell: 80*80mm"
+      image: "images/products/beer/beer24dg.jpg"
+
+    # 24-bottle soda crate (small, 6 rows, same image: 24sb)
+    - name: "24-bottle soda crate, cell: 60*60mm"
+      image: "images/products/beer/24sb.jpg"
+    - name: "24-bottle soda crate, cell: 60*60mm"
+      image: "images/products/beer/24sdg.jpg"
+    - name: "24-bottle soda crate, cell: 60*60mm"
+      image: "images/products/beer/24sg.jpg"
+    - name: "24-bottle soda crate, cell: 60*60mm"
+      image: "images/products/beer/24sr.jpg"
+    - name: "24-bottle soda crate, cell: 60*60mm"
+      image: "images/products/beer/24sw.jpg"
+    - name: "24-bottle soda crate, cell: 60*60mm"
+      image: "images/products/beer/24sy.jpg"
+
+    # 24-bottle soda crate (large, 5 rows, same image: 24lb)
+    - name: "24-bottle soda crate, cell: 65*65mm"
+      image: "images/products/beer/24lb.jpg"
+    - name: "24-bottle soda crate, cell: 65*65mm"
+      image: "images/products/beer/24ldg.jpg"
+    - name: "24-bottle soda crate, cell: 65*65mm"
+      image: "images/products/beer/24lg.jpg"
+    - name: "24-bottle soda crate, cell: 65*65mm"
+      image: "images/products/beer/24lr.jpg"
+    - name: "24-bottle soda crate, cell: 65*65mm"
+      image: "images/products/beer/24ly.jpg"
+
+    # Glass rack (2 rows: blue, red)
+    - name: "Glass rack, cell: 75*75mm"
+      image: "images/products/beer/glassb.jpg"
+    - name: "Glass rack, cell: 75*75mm"
+      image: "images/products/beer/glassr.jpg"
+
+    # Cola rack (1 row)
+    - name: "Cola rack, cell: 60*60mm"
+      image: "images/products/beer/cola.jpg"
 
 spec_headers:
   - { key: "model",     label: "Model" }

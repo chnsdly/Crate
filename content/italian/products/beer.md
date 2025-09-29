@@ -36,6 +36,66 @@ showcase:
     - image: "images/products/beer/4.jpg"
       title: "Fabbrica e stock"
       content: "Produzione su larga scala, scorte sufficienti, consegna affidabile."
+products:
+  enable: true
+  items:
+    # Cassetta per 12 bottiglie di birra (4 colori)
+    - name: "Cassetta per 12 bottiglie di birra, scomparto: 79*79mm"
+      image: "images/products/beer/beer12r.jpg"
+    - name: "Cassetta per 12 bottiglie di birra, scomparto: 79*79mm"
+      image: "images/products/beer/beer12y.jpg"
+    - name: "Cassetta per 12 bottiglie di birra, scomparto: 79*79mm"
+      image: "images/products/beer/beer12b.jpg"
+    - name: "Cassetta per 12 bottiglie di birra, scomparto: 79*79mm"
+      image: "images/products/beer/beer12g.jpg"
+
+    # Cassetta per 24 bottiglie di birra (5 colori: rosso, giallo, grigio, blu, verde)
+    - name: "Cassetta per 24 bottiglie di birra, scomparto: 80*80mm"
+      image: "images/products/beer/beer24r.jpg"
+    - name: "Cassetta per 24 bottiglie di birra, scomparto: 80*80mm"
+      image: "images/products/beer/beer24y.jpg"
+    - name: "Cassetta per 24 bottiglie di birra, scomparto: 80*80mm"
+      image: "images/products/beer/beer24g.jpg"  # grigio
+    - name: "Cassetta per 24 bottiglie di birra, scomparto: 80*80mm"
+      image: "images/products/beer/beer24b.jpg"
+    - name: "Cassetta per 24 bottiglie di birra, scomparto: 80*80mm"
+      image: "images/products/beer/beer24dg.jpg"
+
+    # Cassetta per 24 bottiglie di soda (piccola, 6 file, stessa immagine: 24sb)
+    - name: "Cassetta per 24 bottiglie di soda, scomparto: 60*60mm"
+      image: "images/products/beer/24sb.jpg"
+    - name: "Cassetta per 24 bottiglie di soda, scomparto: 60*60mm"
+      image: "images/products/beer/24sdg.jpg"
+    - name: "Cassetta per 24 bottiglie di soda, scomparto: 60*60mm"
+      image: "images/products/beer/24sg.jpg"
+    - name: "Cassetta per 24 bottiglie di soda, scomparto: 60*60mm"
+      image: "images/products/beer/24sr.jpg"
+    - name: "Cassetta per 24 bottiglie di soda, scomparto: 60*60mm"
+      image: "images/products/beer/24sw.jpg"
+    - name: "Cassetta per 24 bottiglie di soda, scomparto: 60*60mm"
+      image: "images/products/beer/24sy.jpg"
+
+    # Cassetta per 24 bottiglie di soda (grande, 5 file, stessa immagine: 24lb)
+    - name: "Cassetta per 24 bottiglie di soda, scomparto: 65*65mm"
+      image: "images/products/beer/24lb.jpg"
+    - name: "Cassetta per 24 bottiglie di soda, scomparto: 65*65mm"
+      image: "images/products/beer/24ldg.jpg"
+    - name: "Cassetta per 24 bottiglie di soda, scomparto: 65*65mm"
+      image: "images/products/beer/24lg.jpg"
+    - name: "Cassetta per 24 bottiglie di soda, scomparto: 65*65mm"
+      image: "images/products/beer/24lr.jpg"
+    - name: "Cassetta per 24 bottiglie di soda, scomparto: 65*65mm"
+      image: "images/products/beer/24ly.jpg"
+
+    # Cassetta per bicchieri (2 file: blu, rosso)
+    - name: "Cassetta per bicchieri, scomparto: 75*75mm"
+      image: "images/products/beer/glassb.jpg"
+    - name: "Cassetta per bicchieri, scomparto: 75*75mm"
+      image: "images/products/beer/glassr.jpg"
+
+    # Cassetta per cola (1 fila)
+    - name: "Cassetta per cola, scomparto: 60*60mm"
+      image: "images/products/beer/cola.jpg"
 
 spec_headers:
   - { key: "model",     label: "Modello" }
