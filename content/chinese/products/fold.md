@@ -3,6 +3,7 @@ title: "折叠筐"
 description: "折叠设计，堆叠稳固，回空省空间；坚固耐用，适合多场景周转"
 list_image: "images/products/fold/main.jpg"
 hero_image: "images/products/fold/hero.jpg"
+bg_image: "images/feature-bg.jpg"
 weight: 40          # Hugo 排序用
 type:   "products"  # 可按你现有 taxonomies 调整
 specs_heading: "规格总表"

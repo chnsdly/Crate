@@ -3,6 +3,7 @@ title: "Casse impilabili a incastro"
 description: "Stoccaggio ad incastro, riduce i costi di magazzino e trasporto."
 list_image: "images/products/rounded/main.jpg"
 hero_image: "images/products/rounded/hero.jpg"
+bg_image: "images/feature-bg.jpg"
 weight: 20          # Ordinamento Hugo, regolabile
 type:   "products"  # Adeguare alle tassonomie esistenti
 specs_heading: "Tabella specifiche"

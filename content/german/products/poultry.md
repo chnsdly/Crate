@@ -3,6 +3,7 @@ title: "Geflügel-Transportkisten"
 description: "Schnapp-/Schraubverbindung, gut belüftet, robuste Konstruktion, geeignet für Langstreckentransporte von Geflügel."
 list_image: "images/products/poultry/main1.jpg"
 hero_image: "images/products/poultry/hero.jpg"
+bg_image: "images/feature-bg.jpg"
 weight: 60          # Hugo Sortierung
 type:   "products"  # Nach bestehenden Taxonomien anpassen
 specs_heading: "Spezifikationsübersicht"

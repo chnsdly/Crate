@@ -3,6 +3,7 @@ title: "啤酒筐"
 description: "适配12/24瓶装，堆叠稳固，抗冲击耐用"
 list_image: "images/products/beer/main.jpg"
 hero_image: "images/products/beer/hero.jpg"
+bg_image: "images/feature-bg.jpg"
 weight: 50          # Hugo 排序用
 type:   "products"  # 可按你现有 taxonomies 调整
 specs_heading: "规格总表"

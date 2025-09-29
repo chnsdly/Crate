@@ -3,6 +3,7 @@ title: "倒置周转筐"
 description: "可堆可套周转筐"
 list_image: "images/products/stack-nest/main.jpg"
 hero_image: "images/products/stack-nest/hero.jpg"
+bg_image: "images/feature-bg.jpg"
 weight: 40          # Hugo 排序用
 type:   "products" # 可按你现有 taxonomies 调整
 specs_heading: "规格总表"

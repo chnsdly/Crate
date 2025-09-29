@@ -3,6 +3,7 @@ title: "Caisses emboîtables"
 description: "Rangement emboîtable, économisant l’espace d’entreposage et de transport."
 list_image: "images/products/rounded/main.jpg"
 hero_image: "images/products/rounded/hero.jpg"
+bg_image: "images/feature-bg.jpg"
 weight: 20          # Tri Hugo, ajustable si besoin
 type:   "products"  # Ajuster selon vos taxonomies existantes
 specs_heading: "Tableau des spécifications"

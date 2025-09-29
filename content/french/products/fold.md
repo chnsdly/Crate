@@ -3,6 +3,7 @@ title: "Caisses pliantes"
 description: "Conception pliante, empilage stable, retour à vide peu encombrant ; robustes et durables pour des usages multiples."
 list_image: "images/products/fold/main.jpg"
 hero_image: "images/products/fold/hero.jpg"
+bg_image: "images/feature-bg.jpg"
 weight: 40          # Tri Hugo
 type:   "products"  # Ajuster selon vos taxonomies existantes
 specs_heading: "Tableau des spécifications"

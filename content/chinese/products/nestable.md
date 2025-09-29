@@ -3,6 +3,7 @@ title: "可嵌套周转筐"
 description: "可嵌套收纳，省仓储省运输"
 list_image: "images/products/rounded/main.jpg"
 hero_image: "images/products/rounded/hero.jpg"
+bg_image: "images/feature-bg.jpg"
 weight: 20          # Hugo 排序用，可根据实际调整
 type:   "products"  # 可按你现有 taxonomies 调整
 specs_heading: "规格总表"

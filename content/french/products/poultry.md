@@ -3,6 +3,7 @@ title: "Cages de transport de volailles"
 description: "Fixation par loquet/vis, ventilation efficace, structure robuste, adaptées au transport longue distance de volailles."
 list_image: "images/products/poultry/main1.jpg"
 hero_image: "images/products/poultry/hero.jpg"
+bg_image: "images/feature-bg.jpg"
 weight: 60          # Tri Hugo
 type:   "products"  # Ajuster selon vos taxonomies existantes
 specs_heading: "Tableau des spécifications"

@@ -3,6 +3,7 @@ title: "Bacs gerbables/emboîtables"
 description: "Bacs empilables et emboîtables pour la manutention."
 list_image: "images/products/stack-nest/main.jpg"
 hero_image: "images/products/stack-nest/hero.jpg"
+bg_image: "images/feature-bg.jpg"
 weight: 40          # Tri Hugo
 type:   "products"  # Ajuster selon vos taxonomies existantes
 specs_heading: "Tableau des spécifications"

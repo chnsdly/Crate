@@ -3,6 +3,7 @@ title: "Stapel- und Nestkisten"
 description: "Kisten zum Stapeln und Ineinander-Nesten für den Umlauf."
 list_image: "images/products/stack-nest/main.jpg"
 hero_image: "images/products/stack-nest/hero.jpg"
+bg_image: "images/feature-bg.jpg"
 weight: 40          # Hugo Sortierung
 type:   "products"  # Nach bestehenden Taxonomien anpassen
 specs_heading: "Spezifikationsübersicht"

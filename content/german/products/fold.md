@@ -3,6 +3,7 @@ title: "Faltkisten"
 description: "Klappdesign, stapelsicher und platzsparend im Leerrücklauf; robust und langlebig für vielfältige Umlaufszenarien."
 list_image: "images/products/fold/main.jpg"
 hero_image: "images/products/fold/hero.jpg"
+bg_image: "images/feature-bg.jpg"
 weight: 40          # Hugo Sortierung
 type:   "products"  # Nach bestehenden Taxonomien anpassen
 specs_heading: "Spezifikationsübersicht"

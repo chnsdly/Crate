@@ -3,6 +3,7 @@ title: "Cajas para cerveza"
 description: "Compatibles con 12/24 botellas, apilado estable, resistentes a impactos y duraderas."
 list_image: "images/products/beer/main.jpg"
 hero_image: "images/products/beer/hero.jpg"
+bg_image: "images/feature-bg.jpg"
 weight: 50          # Orden Hugo
 type:   "products"  # Ajustar según taxonomías existentes
 specs_heading: "Tabla de especificaciones"

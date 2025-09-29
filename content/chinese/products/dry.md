@@ -3,6 +3,7 @@ title: "通风盘/干燥盘"
 description: "多规格选择，堆叠稳固，适用于晾晒、食品冻干与周转"
 list_image: "images/products/dry/main.jpg"
 hero_image: "images/products/dry/hero.jpg"
+bg_image: "images/feature-bg.jpg"
 weight: 30          # Hugo 排序用
 type:   "products"  # 可按你现有 taxonomies 调整
 specs_heading: "规格总表"

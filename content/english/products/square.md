@@ -3,6 +3,7 @@ title: "Straight-Wall Crates"
 description: "Rectangular right-angle design, multiple sizes available."
 list_image: "images/products/square/main.jpg"
 hero_image: "images/products/square/hero.jpg"
+bg_image: "images/feature-bg.jpg"
 weight: 10          # Hugo sorting
 type:   "products"  # Adjust according to your existing taxonomies
 specs_heading: "Specification Overview"

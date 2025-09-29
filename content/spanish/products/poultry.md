@@ -3,6 +3,7 @@ title: "Jaulas para transporte de aves"
 description: "Fijación con pestillo/tornillos, ventiladas, estructura robusta, adecuadas para transporte de larga distancia."
 list_image: "images/products/poultry/main1.jpg"
 hero_image: "images/products/poultry/hero.jpg"
+bg_image: "images/feature-bg.jpg"
 weight: 60          # Orden Hugo
 type:   "products"  # Ajustar según taxonomías existentes
 specs_heading: "Tabla de especificaciones"

@@ -3,6 +3,7 @@ title: "Geradwandige Transportkisten"
 description: "Rechteckige Konstruktion mit rechten Winkeln, in vielen Größen erhältlich."
 list_image: "images/products/square/main.jpg"
 hero_image: "images/products/square/hero.jpg"
+bg_image: "images/feature-bg.jpg"
 weight: 10          # Hugo Sortierung
 type:   "products"  # Nach bestehenden Taxonomien anpassen
 specs_heading: "Spezifikationsübersicht"

@@ -3,6 +3,7 @@ title: "Gabbie per trasporto avicolo"
 description: "Fissaggio a scatto/vite, ventilazione efficace, struttura robusta, adatte al trasporto a lunga distanza di pollame."
 list_image: "images/products/poultry/main1.jpg"
 hero_image: "images/products/poultry/hero.jpg"
+bg_image: "images/feature-bg.jpg"
 weight: 60          # Ordinamento Hugo
 type:   "products"  # Adeguare alle tassonomie esistenti
 specs_heading: "Tabella specifiche"

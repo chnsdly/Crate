@@ -3,6 +3,7 @@ title: "Ventilated / Drying Trays"
 description: "Multiple size options, stable stacking, suitable for drying, food freeze-drying and turnover."
 list_image: "images/products/dry/main.jpg"
 hero_image: "images/products/dry/hero.jpg"
+bg_image: "images/feature-bg.jpg"
 weight: 30          # Hugo sorting
 type:   "products"  # Adjust according to your existing taxonomies
 specs_heading: "Specification Overview"

@@ -3,6 +3,7 @@ title: "Foldable Crates"
 description: "Foldable design, stable stacking, space-saving on empty return; robust and durable for multi-scenario turnover."
 list_image: "images/products/fold/main.jpg"
 hero_image: "images/products/fold/hero.jpg"
+bg_image: "images/feature-bg.jpg"
 weight: 40          # Hugo sorting
 type:   "products"  # Adjust according to your existing taxonomies
 specs_heading: "Specification Overview"

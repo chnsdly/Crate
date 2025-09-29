@@ -3,6 +3,7 @@ title: "Plateaux ventilés / de séchage"
 description: "Large choix de dimensions, empilage stable, adaptés au séchage, à la lyophilisation alimentaire et à la manutention."
 list_image: "images/products/dry/main.jpg"
 hero_image: "images/products/dry/hero.jpg"
+bg_image: "images/feature-bg.jpg"
 weight: 30          # Tri Hugo
 type:   "products"  # Ajuster selon vos taxonomies existantes
 specs_heading: "Tableau des spécifications"

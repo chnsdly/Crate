@@ -3,6 +3,7 @@ title: "Vassoi ventilati / di essiccazione"
 description: "Varie dimensioni disponibili, impilaggio stabile, adatti per essiccazione, liofilizzazione alimentare e movimentazione."
 list_image: "images/products/dry/main.jpg"
 hero_image: "images/products/dry/hero.jpg"
+bg_image: "images/feature-bg.jpg"
 weight: 30          # Ordinamento Hugo
 type:   "products"  # Adeguare alle tassonomie esistenti
 specs_heading: "Tabella specifiche"

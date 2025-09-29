@@ -3,6 +3,7 @@ title: "Cajas de pared recta"
 description: "Diseño rectangular de ángulos rectos, múltiples tamaños disponibles."
 list_image: "images/products/square/main.jpg"
 hero_image: "images/products/square/hero.jpg"
+bg_image: "images/feature-bg.jpg"
 weight: 10          # Orden Hugo
 type:   "products"  # Ajustar según taxonomías existentes
 specs_heading: "Tabla de especificaciones"

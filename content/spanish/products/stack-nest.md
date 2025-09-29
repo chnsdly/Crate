@@ -3,6 +3,7 @@ title: "Cajas stack-nest"
 description: "Cajas apilables y encajables para rotación."
 list_image: "images/products/stack-nest/main.jpg"
 hero_image: "images/products/stack-nest/hero.jpg"
+bg_image: "images/feature-bg.jpg"
 weight: 40          # Orden Hugo
 type:   "products"  # Ajustar según taxonomías existentes
 specs_heading: "Tabla de especificaciones"

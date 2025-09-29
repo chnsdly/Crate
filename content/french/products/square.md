@@ -3,6 +3,7 @@ title: "Caisses à parois droites"
 description: "Conception rectangulaire à angles droits, plusieurs dimensions au choix."
 list_image: "images/products/square/main.jpg"
 hero_image: "images/products/square/hero.jpg"
+bg_image: "images/feature-bg.jpg"
 weight: 10          # Tri Hugo
 type:   "products"  # Ajuster selon vos taxonomies existantes
 specs_heading: "Tableau des spécifications"

@@ -3,6 +3,7 @@ title: "Casse stack-nest"
 description: "Casse impilabili e ad incastro per la movimentazione."
 list_image: "images/products/stack-nest/main.jpg"
 hero_image: "images/products/stack-nest/hero.jpg"
+bg_image: "images/feature-bg.jpg"
 weight: 40          # Ordinamento Hugo
 type:   "products"  # Adeguare alle tassonomie esistenti
 specs_heading: "Tabella specifiche"

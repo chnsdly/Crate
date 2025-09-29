@@ -3,6 +3,7 @@ title: "Bierkästen"
 description: "Für 12/24 Flaschen, stabiles Stapeln, stoßfest und langlebig."
 list_image: "images/products/beer/main.jpg"
 hero_image: "images/products/beer/hero.jpg"
+bg_image: "images/feature-bg.jpg"
 weight: 50          # Hugo Sortierung
 type:   "products"  # Nach bestehenden Taxonomien anpassen
 specs_heading: "Gesamtspezifikationen"

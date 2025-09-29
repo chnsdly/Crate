@@ -3,6 +3,7 @@ title: "Belüftungs- / Trocknungstabletts"
 description: "Mehrere Größenoptionen, stabiles Stapeln, geeignet für Trocknung, Lebensmittelfreeze-Drying und Umlauf."
 list_image: "images/products/dry/main.jpg"
 hero_image: "images/products/dry/hero.jpg"
+bg_image: "images/feature-bg.jpg"
 weight: 30          # Hugo Sortierung
 type:   "products"  # Nach bestehenden Taxonomien anpassen
 specs_heading: "Gesamtspezifikationen"

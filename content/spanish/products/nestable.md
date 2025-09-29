@@ -3,6 +3,7 @@ title: "Cajas apilables encajables"
 description: "Almacenamiento encajable, ahorra costes de almacén y transporte."
 list_image: "images/products/rounded/main.jpg"
 hero_image: "images/products/rounded/hero.jpg"
+bg_image: "images/feature-bg.jpg"
 weight: 20          # Orden Hugo, ajustable
 type:   "products"  # Ajustar según taxonomías existentes
 specs_heading: "Tabla de especificaciones"

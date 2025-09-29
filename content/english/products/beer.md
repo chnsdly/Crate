@@ -3,6 +3,7 @@ title: "Beer Crates"
 description: "Compatible with 12/24 bottles, stable stacking, impact-resistant and durable."
 list_image: "images/products/beer/main.jpg"
 hero_image: "images/products/beer/hero.jpg"
+bg_image: "images/feature-bg.jpg"
 weight: 50          # Hugo sorting
 type:   "products"  # Adjust according to your existing taxonomies
 specs_heading: "Specification Overview"

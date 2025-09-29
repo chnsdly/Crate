@@ -3,6 +3,7 @@ title: "Stack-Nest Crates"
 description: "Stackable and nestable turnover crates."
 list_image: "images/products/stack-nest/main.jpg"
 hero_image: "images/products/stack-nest/hero.jpg"
+bg_image: "images/feature-bg.jpg"
 weight: 40          # Hugo sorting
 type:   "products"  # Adjust according to your existing taxonomies
 specs_heading: "Specification Overview"

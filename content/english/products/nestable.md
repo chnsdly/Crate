@@ -3,6 +3,7 @@ title: "Nestable Crates"
 description: "Nestable storage, saving warehouse and transport space."
 list_image: "images/products/rounded/main.jpg"
 hero_image: "images/products/rounded/hero.jpg"
+bg_image: "images/feature-bg.jpg"
 weight: 20          # Hugo sorting, adjustable as needed
 type:   "products"  # Adjust according to your existing taxonomies
 specs_heading: "Specification Overview"

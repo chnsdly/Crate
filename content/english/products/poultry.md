@@ -3,6 +3,7 @@ title: "Poultry Transport Crates"
 description: "Latch/screw fastening, ventilated, robust structure, suitable for long-haul poultry transport."
 list_image: "images/products/poultry/main1.jpg"
 hero_image: "images/products/poultry/hero.jpg"
+bg_image: "images/feature-bg.jpg"
 weight: 60          # Hugo sorting
 type:   "products"  # Adjust according to your existing taxonomies
 specs_heading: "Specification Overview"

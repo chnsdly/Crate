@@ -3,6 +3,7 @@ title: "Casse a pareti dritte"
 description: "Design rettangolare ad angoli retti, disponibili in più dimensioni."
 list_image: "images/products/square/main.jpg"
 hero_image: "images/products/square/hero.jpg"
+bg_image: "images/feature-bg.jpg"
 weight: 10          # Ordinamento Hugo
 type:   "products"  # Adeguare alle tassonomie esistenti
 specs_heading: "Tabella specifiche"

@@ -3,6 +3,7 @@ title: "直壁型周转筐"
 description: "长方体直角设计，多规格可选"
 list_image: "images/products/square/main.jpg"
 hero_image: "images/products/square/hero.jpg"
+bg_image: "images/feature-bg.jpg"
 weight: 10          # Hugo 排序用
 type:   "products"  # 可按你现有 taxonomies 调整
 specs_heading: "规格总表"

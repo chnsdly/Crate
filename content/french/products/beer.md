@@ -3,6 +3,7 @@ title: "Caisses à bière"
 description: "Compatibles 12/24 bouteilles, empilage stable, résistantes aux chocs et durables."
 list_image: "images/products/beer/main.jpg"
 hero_image: "images/products/beer/hero.jpg"
+bg_image: "images/feature-bg.jpg"
 weight: 50          # Tri Hugo
 type:   "products"  # Ajuster selon vos taxonomies existantes
 specs_heading: "Tableau des spécifications"

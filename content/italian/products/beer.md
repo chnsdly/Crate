@@ -3,6 +3,7 @@ title: "Casse per birra"
 description: "Adatte per 12/24 bottiglie, impilaggio stabile, resistenti agli urti e durevoli."
 list_image: "images/products/beer/main.jpg"
 hero_image: "images/products/beer/hero.jpg"
+bg_image: "images/feature-bg.jpg"
 weight: 50          # Ordinamento Hugo
 type:   "products"  # Adeguare alle tassonomie esistenti
 specs_heading: "Tabella specifiche"

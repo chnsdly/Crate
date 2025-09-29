@@ -3,6 +3,7 @@ title: "家禽运输笼"
 description: "卡扣/螺丝固定，通风透气，结构结实，适合家禽长途运输"
 list_image: "images/products/poultry/main1.jpg"
 hero_image: "images/products/poultry/hero.jpg"
+bg_image: "images/feature-bg.jpg"
 weight: 60          # Hugo 排序用
 type:   "products"  # 可按你现有 taxonomies 调整
 specs_heading: "规格总表"

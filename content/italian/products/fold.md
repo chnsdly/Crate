@@ -3,6 +3,7 @@ title: "Casse pieghevoli"
 description: "Design pieghevole, impilaggio stabile e salvaspazio a vuoto; robuste e durevoli, adatte a molteplici scenari di movimentazione."
 list_image: "images/products/fold/main.jpg"
 hero_image: "images/products/fold/hero.jpg"
+bg_image: "images/feature-bg.jpg"
 weight: 40          # Ordinamento Hugo
 type:   "products"  # Adeguare alle tassonomie esistenti
 specs_heading: "Tabella specifiche"

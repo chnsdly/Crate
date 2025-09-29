@@ -3,6 +3,7 @@ title: "Cajas plegables"
 description: "Diseño plegable, apilado estable y ahorro de espacio en retorno en vacío; robustas y duraderas para múltiples escenarios de rotación."
 list_image: "images/products/fold/main.jpg"
 hero_image: "images/products/fold/hero.jpg"
+bg_image: "images/feature-bg.jpg"
 weight: 40          # Orden Hugo
 type:   "products"  # Ajustar según taxonomías existentes
 specs_heading: "Tabla de especificaciones"

@@ -3,6 +3,7 @@ title: "Bandejas ventiladas / de secado"
 description: "Múltiples opciones de tamaño, apilado estable, adecuadas para secado, liofilización de alimentos y rotación."
 list_image: "images/products/dry/main.jpg"
 hero_image: "images/products/dry/hero.jpg"
+bg_image: "images/feature-bg.jpg"
 weight: 30          # Orden Hugo
 type:   "products"  # Ajustar según taxonomías existentes
 specs_heading: "Tabla de especificaciones"

@@ -3,6 +3,7 @@ title: "Stapelnestbare Kisten"
 description: "Nestbare Aufbewahrung spart Lager- und Transportkosten."
 list_image: "images/products/rounded/main.jpg"
 hero_image: "images/products/rounded/hero.jpg"
+bg_image: "images/feature-bg.jpg"
 weight: 20          # Hugo Sortierung, bei Bedarf anpassen
 type:   "products"  # Nach bestehenden Taxonomien anpassen
 specs_heading: "Spezifikationsübersicht"
